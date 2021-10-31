@@ -1,7 +1,7 @@
-### Eai bão? Eu sou o Vyctor de Paulo
+### Alex Roza 
 
-- 🔭 Atualmente trabalhando com Helpdesk
-- 🌱 Aprendendo C#
+- 🔭 Engenharia de Software 6/8
+- 🌱 Se especializando em Microsservicos em Cloud!
 
 <div align="center">
   <a href="https://github.com/AlexRozaLopes">
